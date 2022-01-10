@@ -1,0 +1,48 @@
+newmtl front
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Ka ..\images\env_sky\front.jpg
+
+newmtl back
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Ka ..\images\env_sky\back.jpg
+
+newmtl top
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Ka ..\images\env_sky\top.jpg
+
+newmtl bottom
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Ka ..\images\env_sky\bottom.jpg
+
+newmtl left
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Ka ..\images\env_sky\left.jpg
+
+newmtl right
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 1
+map_Ka ..\images\env_sky\right.jpg
+

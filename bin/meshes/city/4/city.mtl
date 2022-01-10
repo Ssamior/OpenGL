@@ -1,0 +1,415 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub object (48) to come 
+#
+newmtl Material__1
+Ka  0.6 0.5 0.5
+Kd  0.6 0.5 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd 01.png
+#
+newmtl Material__2
+Ka  0.9 0.8 0.7
+Kd  0.9 0.8 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__3
+Ka  0.5 0.6 0.6
+Kd  0.5 0.6 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd _concret.png
+#
+newmtl Material__4
+Ka  0.4 0.4 0.2
+Kd  0.4 0.4 0.2
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__5
+Ka  1.0 1.0 0.9
+Kd  1.0 1.0 0.9
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd _grass_1.png
+#
+newmtl Material__6
+Ka  0.1 0.1 0.5
+Kd  0.1 0.1 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd _grass_2.png
+#
+newmtl Material__7
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__8
+Ka  0.5 0.5 0.7
+Kd  0.5 0.5 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd blinds_c.png
+#
+newmtl Material__9
+Ka  0.9 0.8 0.5
+Kd  0.9 0.8 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd blinds01.png
+#
+newmtl Material__10
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd blinds_w.png
+#
+newmtl Material__11
+Ka  0.9 0.6 0.6
+Kd  0.9 0.6 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__12
+Ka  0.6 0.5 0.4
+Kd  0.6 0.5 0.4
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd brick_ro.png
+#
+newmtl Material__13
+Ka  0.7 0.6 0.4
+Kd  0.7 0.6 0.4
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__14
+Ka  1.0 1.0 0.8
+Kd  1.0 1.0 0.8
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__15
+Ka  0.8 0.7 0.6
+Kd  0.8 0.7 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__16
+Ka  0.4 0.6 0.7
+Kd  0.4 0.6 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__17
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__18
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__19
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__20
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__21
+Ka  0.9 0.0 0.0
+Kd  0.9 0.0 0.0
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__22
+Ka  1.0 1.0 0.4
+Kd  1.0 1.0 0.4
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__23
+Ka  0.0 0.0 1.0
+Kd  0.0 0.0 1.0
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd _grass_2.png
+#
+newmtl Material__24
+Ka  0.0 0.0 0.7
+Kd  0.0 0.0 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__25
+Ka  0.8 0.8 0.8
+Kd  0.8 0.8 0.8
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd concrete.png
+#
+newmtl Material__26
+Ka  0.5 0.5 0.4
+Kd  0.5 0.5 0.4
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__27
+Ka  0.6 0.6 0.5
+Kd  0.6 0.6 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__28
+Ka  0.6 0.7 0.5
+Kd  0.6 0.7 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd grass.png
+#
+newmtl Material__29
+Ka  0.7 0.7 0.7
+Kd  0.7 0.7 0.7
+Ks  0.5 0.5 0.5
+d  0.5
+Ns  0.0
+illum 2
+#
+newmtl Material__30
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__31
+Ka  0.7 0.7 0.6
+Kd  0.7 0.7 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd groundco.png
+#
+newmtl Material__32
+Ka  1.0 0.9 0.7
+Kd  1.0 0.9 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd ground01.png
+#
+newmtl Material__33
+Ka  0.9 0.9 0.9
+Kd  0.9 0.9 0.9
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd metal_co.png
+#
+newmtl Material__34
+Ka  0.7 0.8 0.8
+Kd  0.7 0.8 0.8
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd metal_pa.png
+#
+newmtl Material__35
+Ka  1.0 0.9 0.7
+Kd  1.0 0.9 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__36
+Ka  0.6 0.6 0.7
+Kd  0.6 0.6 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd petco_bl.png
+#
+newmtl Material__37
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd petco_ou.png
+#
+newmtl Material__38
+Ka  0.9 0.5 0.5
+Kd  0.9 0.5 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__39
+Ka  0.8 0.6 0.5
+Kd  0.8 0.6 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__40
+Ka  0.9 0.8 0.7
+Kd  0.9 0.8 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd roofing_.png
+#
+newmtl Material__41
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd standing.png
+#
+newmtl Material__42
+Ka  0.4 0.4 0.4
+Kd  0.4 0.4 0.4
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd tile_nav.png
+#
+newmtl Material__43
+Ka  0.9 0.9 0.7
+Kd  0.9 0.9 0.7
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__44
+Ka  0.3 0.4 0.5
+Kd  0.3 0.4 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+#
+newmtl Material__45
+Ka  0.7 0.6 0.6
+Kd  0.7 0.6 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd rfk_blea.png
+#
+newmtl Material__46
+Ka  0.8 0.9 0.5
+Kd  0.8 0.9 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd rfk_bl01.png
+#
+newmtl Material__47
+Ka  0.5 0.5 0.5
+Kd  0.5 0.5 0.5
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd rfk_lowe.png
+#
+newmtl Material__48
+Ka  0.7 0.7 0.6
+Kd  0.7 0.7 0.6
+Ks  0.5 0.5 0.5
+d  1.0
+Ns  0.0
+illum 2
+map_Kd rfk_lo01.png
+#
+# Multi/Sub object done 
+#
+# EOF

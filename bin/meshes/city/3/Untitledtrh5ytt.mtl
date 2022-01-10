@@ -1,0 +1,630 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5 5.0.2.1477 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl __Concrete_rough_1noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd __Concrete-rough_1noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material7noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Material7noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material4noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Material4noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl __Concrete_walk_1noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd __Concrete_walk_1noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Stone_Masonry_MultinoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Stone_Masonry_MultinoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl FrontColorNoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _03anoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd _03anoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Defense2000_F2noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Defense2000_F2noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl A_N12noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd A_N12noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl __Concrete_rough_2noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd __Concrete-rough_2noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl titleTrustWAnoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd titleTrustWAnoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl titleTrustNBnoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd titleTrustNBnoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl PeakAJ5noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd PeakAJ5noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material8noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Material8noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl PeakAJ21noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd PeakAJ21noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl PeakAJ11noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd PeakAJ11noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Defense2000_F1noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Defense2000_F1noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl __Cladding_Stucco_White_1noCull
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd __Cladding_Stucco_White_1noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl PeakCVO1noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd PeakCVO1noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl A_S1noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd A_S1noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl A_E9noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd A_E9noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl __DarkGray_noCulling
+Ka 0 0 0
+Kd 0.317647 0.317647 0.317647
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl A_NE1noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd A_NE1noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl EmiratesTowers_LownoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd EmiratesTowers_LownoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Water_PoolnoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Water_PoolnoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl A_E3noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd A_E3noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl __Wood_floor_light_noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd __Wood-floor-light_noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl e01noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd e01noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material6noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Material6noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl jean_bluenoCulling
+Ka 0 0 0
+Kd 0.141176 0.184314 0.258824
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Stone_Pavers_WalknoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Stone_Pavers_WalknoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl PeakAJ15noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd PeakAJ15noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Roofing_Shingles_GAF_EstatesnoC
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Roofing_Shingles_GAF_EstatesnoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl PeakAJ17noCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd PeakAJ17noCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl ET_Concrete1noCulling
+Ka 0 0 0
+Kd 0.482353 0.52549 0.580392
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl exhibitionCntrSSEAnoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd exhibitionCntrSSEAnoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl elevnoCulling
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd elevnoCulling.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Material8_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd Material8_1.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl Explorer_Default
+Ka 0.117647 0.117647 0.117647
+Kd 0.752941 0.752941 0.752941
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
